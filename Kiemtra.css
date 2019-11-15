@@ -6,7 +6,7 @@
 	position: absolute;
 	/* background: red; */
 	text-align: center;
-	width: 300px;
+	width: 400px;
 	height: auto;
 	top: 25%;
 	left: 15%;
@@ -88,3 +88,16 @@ p {
 	background: blue;
 }
 
+a.carousel-control-next {
+    background: lightblue;
+    width: 30px;
+    height: 60px;
+    position: absolute;
+    top: 45%;
+}a.carousel-control-prev {
+    top: 45%;
+    height: 60px;
+    background: lightblue;
+    width: 30px;
+    position: absolute;
+}
